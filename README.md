@@ -34,7 +34,7 @@ This project analyzes customer behavior and factors influencing bike purchase de
 ![Bike Sales Dashboard](dashboard-preview.png)
 
 **📋 Executive Summary**
-<image-card alt="Insights Preview" src="insights-preview.png" ></image-card>
+![Insights Preview](insights-preview.png)
 
 ### 🛠️ Tools & Technologies
 - Microsoft Excel (Advanced)
